@@ -1,4 +1,4 @@
-using System.ComponentModel;
+﻿﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 int inputnumber(string text, int condition)
